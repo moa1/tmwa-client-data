@@ -900,7 +900,7 @@ File | Artists | Licenses
 `graphics/sprites/monsters/vespa.png` | Arikel | GPLv2, CC BY-SA 3.0
 `graphics/sprites/monsters/wisp.png` | Crush | GPLv2, CC BY-SA 3.0
 `graphics/sprites/monsters/wolvern.png` | Pateame | GPLv2
-`graphics/sprites/monsters/yeti.png` | Bcs86, Hkurn, Skipy | GPLv2
+`graphics/sprites/monsters/yeti.png` | Bcs86, Hkurn (Anton G. Moll), pateame, Wombat, (Skipy?) | GPLv2 or later, CC BY-SA 4.0 or later
 `graphics/sprites/monsters/zombie.png` | FotherJ | GPLv2, CC BY-SA 3.0
 
 ### Monster Accessories
