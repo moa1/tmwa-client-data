@@ -896,11 +896,12 @@ File | Artists | Licenses
 `graphics/sprites/monsters/terranite-mask.png` | Kr0n05931 | GPLv2
 `graphics/sprites/monsters/terranite.png` | Kr0n05931 | GPLv2
 `graphics/sprites/monsters/troll.png` | FotherJ | GPLv2, CC BY-SA 3.0
+`graphics/sprites/monsters/trozz.png` | kr0n05931 Anton G. Moll (hkurn)
 `graphics/sprites/monsters/vampire-bat.png` | Meway | GPLv2
 `graphics/sprites/monsters/vespa.png` | Arikel | GPLv2, CC BY-SA 3.0
 `graphics/sprites/monsters/wisp.png` | Crush | GPLv2, CC BY-SA 3.0
 `graphics/sprites/monsters/wolvern.png` | Pateame | GPLv2
-`graphics/sprites/monsters/yeti.png` | Bcs86, Hkurn (Anton G. Moll), pateame, Wombat, (Skipy?) | GPLv2 or later, CC BY-SA 4.0 or later
+`graphics/sprites/monsters/yeti.png` | Anton G. Moll (hkurn), Bcs86, pateame, Wombat, (Skipy?) | GPLv2 or later, CC BY-SA 4.0 or later
 `graphics/sprites/monsters/zombie.png` | FotherJ | GPLv2, CC BY-SA 3.0
 
 ### Monster Accessories
